@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var a, b, res, real, dolar, conv, cota, cel, fah, ope, escolha;
+
+        //Entrada
+        escolha = prompt("O que você quer fazer, Operação básica? Raiz? Potência? Converter moedas? ou Converter Temperatura?")
+
+        if (escolha == "operaçao basica") {
+            alert("Escolha entre os operadores aritméticos para as operações matematicas ou escreva a modalidade que queira.")
+            
+            a = Number(prompt("Digite o primeiro valor: "))
+
+            ope = prompt("Escolha o sinal: ")
+
+            b = Number(prompt("Digite o segundo valor: "))
+            
+            switch (ope) {
+                case "+":
+                    res = a + b
+                    break;
+
+                case "-":    
+                    res = a - b
+                    break;
+
+                case "*":
+                    res = a * b
+                    break;
+
+                case "/":
+                    res = a / b
+                    break;
+
+                default: 
+                    res = 0
+                    break;
+            }
+            alert(res)
+        }
+        else if (escolha == "raiz") {
+            a = Number(prompt("Digite o valor: "))
+            
+            res = Math.sqrt(a)
+
+            alert("A raiz é: " + res)
+        }
+        else if (escolha == "potencia") {
+            a = Number(prompt("Informe o número: "))
+            
+            b = Number(prompt("Informe a potência: "))
+
+            res = Math.pow(a, b)
+
+            alert("O resultado é: " + res)
+        }
+        else if (escolha == "moedas") {
+            ope = prompt("Dolar para Real ou Real para Dolar: ")
+
+            if (ope == "real") {
+                real = Number(prompt("Quanto você quer converter: "))
+
+                cota = Number(prompt("Informe a Cotação do Dólar: "))
+
+                conv = real * cota
+
+                alert("Seu dinheiro será de R$: " + real)
+            }
+            else{
+                dolar = Number(prompt("Quanto você quer converter: "))
+
+                cota = Number(prompt("Informe a Cotação do Real: "))
+
+                conv = dolar * cota
+
+                alert("Seu dinheiro será de R$: " + conv)
+            }
+
+        }
+        else if (escolha == "temperatura") {
+            ope = prompt("Qual temperatura você quer converter Fahrenhait(fah) ou Celcius(cel)? ")
+
+            if (ope == "celcius") {
+                fah = Number(prompt("Informe a temperatura em Fahrenhait: "))
+
+                cel = (fah -32) * 5/9;
+
+                alert("A temperatura em Celcius é de: "+ cel)
+            }
+            else{
+                cel = Number(prompt("Informe a temperatura em Celcius: "))
+
+                fah = (9 * cel + 160) / 5;
+
+                alert("A temperatura em Fahrenhait é: " + fah)
+            }
+        }
+    </script>
+</body>
+</html>
