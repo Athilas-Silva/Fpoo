@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 6</title>
+</head>
+<body>
+    <script>
+        var peso, alt, imc;
+
+        //Entrada
+        peso = parseFloat(prompt("Qual é seu peso: "));
+
+        alt = parseFloat(prompt("Qual sua altura: "));
+
+        //Processamento
+        imc = peso / (alt * alt);
+
+        //Saida
+        alert("Seu IMC é: " + imc.toFixed(2));
+        if (imc < 17) {
+            alert("Muito abaixo do peso");
+        }
+        else if (imc > 17.1 && imc <= 18.49) {
+            alert("Abaixo do peso");
+        }
+        else if (imc > 18.5 && imc <= 24.99) {
+            alert("Peso normal");
+        }
+        else if (imc > 25 && imc <= 29.99) {
+            alert("Acima do peso");
+        }
+        else if (imc > 30 && 34.99) {
+            alert("Obesidade I");
+        }
+        else if (imc > 35 && imc <= 39.99) {
+            alert("Obesidade II (Morbida)");
+        }
+        else{
+            alert("Obesidade III (Morbida)")
+        }
+    </script>
+</body>
+</html>

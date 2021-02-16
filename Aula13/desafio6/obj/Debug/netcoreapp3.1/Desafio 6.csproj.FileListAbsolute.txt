@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\bin\Debug\netcoreapp3.1\Desafio 6.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Desafio 6\obj\Debug\netcoreapp3.1\Desafio 6.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var peso, alt, imc;
+
+        //Entrada
+        peso = parseFloat(prompt("Digite seu peso: "));
+
+        alt = parseFloat(prompt("Digite sua altura: "));
+
+        //Processamento e Saida
+        imc =  peso / (alt * alt);
+        
+        switch (imc) {
+            case 17:
+                alert("Muito Abaixo do Peso");
+                break;
+
+            case 18.49:
+                alert("Abaixo do Peso");
+                break;
+
+            case 24.99:
+                alert("Peso Normal");
+                break;
+
+            case 29.99:
+                alert("Acima do Peso");
+                break;
+
+            case 34.99:
+                alert("Obesidade I");
+                break;
+
+            case 39.99:
+                alert("Obesidade II");
+                break;
+
+            case 40:
+                alert("Obesidade III");
+                break;        
+        }
+        
+        alert("Seu IMC é de: " + imc.toFixed(2));
+
+    </script>
+</body>
+</html>
