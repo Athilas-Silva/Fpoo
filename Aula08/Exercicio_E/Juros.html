@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taxa de Juros</title>
+</head>
+<body>
+    <script>
+        //Declarar Variavel
+        var pres, valor, taxa, temp;
+
+        //Entrada
+        valor = parseFloat(prompt("Qual o valor do produto: "));
+
+        taxa = parseFloat(prompt("qual a taxa cobrada: "));
+
+        temp = parseFloat(prompt("Quanto tempo você atrasou: "));
+
+        //Processamento
+        pres = valor + (valor * (taxa/100) * temp);
+
+        //Saida
+        alert("O valor da prestação é: " + pres.toFixed(2));
+    </script>
+</body>
+</html>
