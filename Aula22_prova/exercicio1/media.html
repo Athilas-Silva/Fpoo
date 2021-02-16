@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Média do Aluno</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var n1, n2, n3, n4, mf
+
+        //Entrada
+        n1 = Number(prompt("Informe a primeira nota: "))
+
+        n2 = Number(prompt("Informe a segunda nota: "))
+
+        n3 = Number(prompt("Informe a terceira nota: "))
+
+        n4 = Number(prompt("Informe a quarta nota: "))
+
+        //Processamento
+        mf = (n1 + n2 + n3 + n4) / 4
+
+        if (mf >= 7) {
+            alert("Aluno APROVADO")
+        }
+        else if (mf < 5) {
+            alert("Aluno REPROVADO")
+        }
+        else{
+            alert("Aluno em RECUPERAÇÃO")
+        }
+
+        //Saida
+        alert("A média é " + mf)
+    </script>
+</body>
+</html>
