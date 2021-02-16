@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibonacci</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var i, n_anterior = 0, n_atual = 1, formula
+
+        //Entrada
+        for (i= 0; i <= 15; i++) {
+            formula = n_anterior + n_atual
+            n_anterior = n_atual
+            n_atual = formula
+
+            console.log("O termo " + i + " é " + formula)
+        }
+    </script>
+</body>
+</html>
