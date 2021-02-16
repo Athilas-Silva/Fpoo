@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\bin\Debug\netcoreapp3.1\Desafio Array v2 - Notas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 27 - 17-12-20\Desafio Array v2 - Notas\obj\Debug\netcoreapp3.1\Desafio Array v2 - Notas.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio Array v2 - Notas/1.0.0": {
+        "runtime": {
+          "Desafio Array v2 - Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio Array v2 - Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
