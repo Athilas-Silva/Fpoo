@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Par & Impar</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var num, quociente, res;
+
+        //Entrada
+        num = Number(prompt("Digite um número: "))
+
+        //Processamento e Saida
+        quociente = num / 2;
+        res = num - 2 * quociente;
+
+        if (res == num - 2 * (2)) {
+            alert("O número é Par")
+        }
+        else{
+            alert("O número é Impar")
+        }
+    </script>
+</body>
+</html>

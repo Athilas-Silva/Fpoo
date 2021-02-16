@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fatorial</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var num, f, cont, res = 0
+
+        //Entrada
+        for (i = 1; i <= 15; i++)
+        {
+            num = Number(prompt("Digite o valor do número " + i))
+
+            if (num > 0) {
+                f = 1
+                cont = 1
+
+                while (cont <= num) {
+                    f *= cont
+                    cont++
+                }
+                res = res + f
+            }
+        }
+        alert("A soma dos fatoriais é de: " + res)
+    </script>
+</body>
+</html>
