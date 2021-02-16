@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\bin\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 2 - Dia da Semana\obj\Debug\netcoreapp3.1\Exemplo 2 - Dia da Semana.genruntimeconfig.cache

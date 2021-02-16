@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var n,r4, r5;
+
+        //Entrada
+        n = parseFloat(prompt("Digite um valor para a divisão: "));
+
+        //Processamento
+        r4 = n % 4 == 0 ? 0 : 1;
+
+        r5 = n % 5 == 0 ? 0 : 1;
+
+        if (r4 == 0 && r5 == 0) {
+            alert(`Divisivel por 4 e 5`)
+        } else{
+            alert(`Não divisivel por 4 e 5`)
+        }
+    </script>
+</body>
+</html>

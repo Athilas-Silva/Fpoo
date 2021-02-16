@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divisivel</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var n, r4, r5;
+
+        //Entrada
+        n = parseInt(prompt("Digite um valor para a divisão: "));
+
+        //Processamento
+        r4 = n % 4;
+
+        r5 = n % 5;
+
+        //Saida
+        if (r4 == 0 && r5 == 0) {
+            alert(n);
+        }
+        else{
+            alert("Não é divisivel por 4 e 5");
+        }
+    </script>
+</body>
+</html>

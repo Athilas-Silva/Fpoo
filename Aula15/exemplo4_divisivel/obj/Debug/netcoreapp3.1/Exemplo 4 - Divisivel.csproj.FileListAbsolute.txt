@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\bin\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 4 - Divisivel\obj\Debug\netcoreapp3.1\Exemplo 4 - Divisivel.genruntimeconfig.cache

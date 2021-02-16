@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\bin\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 15 - 05-11-20\Exemplo 3 - Triangulo\obj\Debug\netcoreapp3.1\Exemplo 3 - Triangulo.genruntimeconfig.cache
