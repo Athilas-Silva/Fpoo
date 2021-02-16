@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculo em Litros</title>
+</head>
+<body>
+    <script>
+        //declarar variavel
+        var Tem, Vel, Dis, Lit;
+
+        //Entrada
+        Tem = parseFloat(prompt("Quanto tempo foi de viagem: "));
+        Vel = parseFloat(prompt("Qual a velocidade média: "));
+
+        //processamento
+        Dis = Tem * Vel
+
+        Lit = Dis / 12
+
+        //Saida
+        alert("O tempo gasto na viagem foi de: " + Tem.toFixed(2));
+        alert("A Velocidade Média é de: " + Vel.toFixed(2));
+        alert("A Distancia percorrida foi de:" + Dis.toFixed(2));
+        alert("O Consumo de Litros foi de: " + Lit.toFixed(2));
+
+    </script>
+</body>
+</html>

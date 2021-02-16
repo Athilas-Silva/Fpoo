@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\bin\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 07 - Desafio em Litros\obj\Debug\netcoreapp3.1\Aula 07 - Desafio em Litros.genruntimeconfig.cache
