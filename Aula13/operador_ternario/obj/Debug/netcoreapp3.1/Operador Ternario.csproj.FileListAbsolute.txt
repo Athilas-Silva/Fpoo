@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\bin\Debug\netcoreapp3.1\Operador Ternario.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 13 - 27-10-20\Operador Ternario\obj\Debug\netcoreapp3.1\Operador Ternario.genruntimeconfig.cache
