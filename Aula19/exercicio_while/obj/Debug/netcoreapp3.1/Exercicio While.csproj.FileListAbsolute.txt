@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\bin\Debug\netcoreapp3.1\Exercicio While.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Exercicio While\obj\Debug\netcoreapp3.1\Exercicio While.genruntimeconfig.cache
