@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\bin\Debug\netcoreapp3.1\Fatorial 2.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 19 19-11-20\Fatorial 2\obj\Debug\netcoreapp3.1\Fatorial 2.genruntimeconfig.cache
