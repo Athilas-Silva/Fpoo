@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 3</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var n1, n2, n3, maior, menor, med, soma;
+
+        //Entrada
+        n1 = parseInt(prompt("Digite o primeiro valor: "));
+
+        n2 = parseInt(prompt("Digite o segundo valor: "));
+
+        n3 = parseInt(prompt("Digite o terceiro valor: "));
+
+        //Processamento e Saida
+        soma = n1 + n2 + n3;
+        alert("A Soma dos valores é de: " + soma);
+
+        med = (n1 + n2 + n3) / 3;
+        alert("A Média dos valores é de: " + med.toFixed(2));
+
+        if (n1 > n2)
+        {
+            maior = n1;
+        }
+        else if (n1 > n3)
+        {
+            maior = n1;
+        }
+        else if (n2 > n3)
+        {
+            maior = n2;
+        }
+        else{
+            maior = n3;
+        }
+        if (n1 < n2)
+        {
+            menor = n1;
+        }
+        else if (n2 < n1)
+        {
+            menor = n2;
+        }
+        else if (n1 < n3)
+        {
+            menor = n1;
+        }
+        else if (n3 < n1)
+        {
+            menor = n3;
+        }
+        else if (n3 < n2)
+        {
+            menor = n3;
+        }
+        else
+        {
+            menor = n2;
+        }
+
+        alert("O Maior número digitado foi: " + maior);
+        alert("O Menor número digitado foi: " + menor);
+    </script>
+</body>
+</html>

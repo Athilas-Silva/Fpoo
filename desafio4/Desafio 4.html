@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 4</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var n1, n2, n3, n4, mf;
+
+        //Entrada
+        n1 = parseInt(prompt("Qual a primeira nota: "));
+
+        n2 = parseInt(prompt("Qual a segunda nota: "));
+
+        n3 = parseInt(prompt("Qual a terceira nota: "));
+
+        n4 = parseInt(prompt("Qual é a quarta nota: "));
+
+        //Processamento e Saida
+        mf = (n1 + n2 + n3 + n4) / 4;
+        alert("A média do Aluno é: " + mf);
+        
+        if (mf >= 5) {
+            alert("Aluno Aprovado")
+        }
+        else{
+            alert("Aluno Reprovado")
+        }
+    </script>
+</body>
+</html>
