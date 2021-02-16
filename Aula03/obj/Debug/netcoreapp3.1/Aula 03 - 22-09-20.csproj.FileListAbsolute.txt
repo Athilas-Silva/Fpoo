@@ -1,0 +1,26 @@
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.exe
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.deps.json
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.runtimeconfig.json
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.runtimeconfig.dev.json
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.dll
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.pdb
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.csprojAssemblyReference.cache
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.AssemblyInfoInputs.cache
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.AssemblyInfo.cs
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.csproj.CoreCompileInputs.cache
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.dll
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.pdb
+C:\Users\Elvitos\Documents\Senai - Athilas\FPOO\Aula 03 - 22-09-20\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.genruntimeconfig.cache
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.exe
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.deps.json
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.runtimeconfig.json
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.runtimeconfig.dev.json
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.dll
+C:\Users\athil\Desktop\Aula03\bin\Debug\netcoreapp3.1\Aula 03 - 22-09-20.pdb
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.csprojAssemblyReference.cache
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.AssemblyInfoInputs.cache
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.AssemblyInfo.cs
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.csproj.CoreCompileInputs.cache
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.dll
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.pdb
+C:\Users\athil\Desktop\Aula03\obj\Debug\netcoreapp3.1\Aula 03 - 22-09-20.genruntimeconfig.cache

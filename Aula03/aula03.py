@@ -1,0 +1,1 @@
+print("Olá Turma 1DM, Fundamentos de Programação Orientada a Objeto, Primeiro código em Python")
