@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 2</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var x, z;
+
+        //Entrada
+        x = parseFloat(prompt("Digite um valor: "));
+
+        //Processamento e Saida
+        if (x > 0) {
+            alert("POSITIVO")
+        }
+        else if (x < 0) {
+            alert("NEGATIVO")
+        }
+        else{
+            alert("NEUTRO")
+        }
+        z = x % 2 == 0 ? "Par" : "Impar";
+        alert("Este número é " + z);
+    </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triângulo</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var a, b, c;
+
+        //Entrada
+        a = parseInt(prompt("Digite o primeiro valor: "));
+
+        b = parseInt(prompt("Digite o segundo valor: "));
+
+        c = parseInt(prompt("Digite o terceiro valor: "));
+
+        //Processamento
+        if (a < b + c && b < a + c && c < a + b)
+            {
+                if (a == b  && b == c && a ==c)
+                {
+                    alert("Triângulo Equilatero");
+                }
+            else if ((a == b && a != c) || (a == c && a != b) || (b == c && a!= c))
+                {
+                    alert("Triângulo Isoceles");
+                }
+            else
+                {
+                    alert("Triângulo Escaleno");
+                }
+            }
+        else
+            {
+                    alert("As medidas não formam um triângulo");
+            }
+    </script>
+</body>
+</html>
