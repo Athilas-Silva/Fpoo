@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salário</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var salario, novsal;
+
+        //Entrada
+        salario = parseFloat(prompt("Digite seu Salário: "));
+
+        //Processamento e Saida
+        if (salario < 500) {
+            novsal = salario * 1.15;
+        }
+        else if (salario >= 1000 && salario <= 500) {
+            novsal = salario * 1.10;
+        }
+        else{
+            novsal = salario * 1.05;
+        }
+        alert("Seu novo salário é: " + novsal.toFixed(2)); //Concatenação
+        //alert(`Seu novo salário é: + ${novsal.toFixed(2)}´); //Interpolação
+
+    </script>
+</body>
+</html>
