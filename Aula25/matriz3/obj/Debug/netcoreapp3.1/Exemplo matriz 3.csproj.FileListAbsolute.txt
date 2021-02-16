@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\bin\Debug\netcoreapp3.1\Exemplo matriz 3.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 25 - 10-12-20\Exemplo matriz 3\obj\Debug\netcoreapp3.1\Exemplo matriz 3.genruntimeconfig.cache
