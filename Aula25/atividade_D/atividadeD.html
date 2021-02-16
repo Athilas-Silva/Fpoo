@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade D</title>
+</head>
+<body>
+    <script>
+        //Declarando Array
+        var vetorA = new Array(4);
+        var vetorB = new Array(4);
+
+        //Montar vetores A, B, C
+        for(let i = 0; i < vetorA.length; i++){
+            vetorA[i] = Number(prompt("Digite um valor para o vetorA: "))
+            vetorB[i] = Math.pow(vetorA[i], 2);
+        }
+
+        for(let i = 0; i < vetorA.length; i++){
+            console.log(`${vetorA[i]} \t ${vetorB[i]}`);
+        }
+    </script>
+</body>
+</html>
