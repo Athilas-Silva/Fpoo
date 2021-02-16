@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acréscimo no Salário</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var sm, pr, ns;
+
+        //Entrada
+        sm = parseFloat(prompt("Informe o seu salário: "));
+
+        pr = parseFloat(prompt("Informe a taxa de acréscimo: "));
+
+        //Processamento
+        ns = sm * pr / (100);
+
+        //Saida
+        alert("O acréscimo é de R$ " + ns);
+        alert("O novo salário é de R$ " + (sm + ns));
+    </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\bin\Debug\netcoreapp3.1\Exercicio R.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 08 - 08-10-20\Exercicio R\obj\Debug\netcoreapp3.1\Exercicio R.genruntimeconfig.cache
