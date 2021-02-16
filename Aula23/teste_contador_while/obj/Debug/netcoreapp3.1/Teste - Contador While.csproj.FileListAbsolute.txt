@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\bin\Debug\netcoreapp3.1\Teste - Contador While.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 23 - 03-12-20\Teste - Contador While\obj\Debug\netcoreapp3.1\Teste - Contador While.genruntimeconfig.cache

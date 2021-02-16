@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador com incremento ou decremento</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var v_inicial, v_final, passo;
+
+        //Entrada
+        v_inicial = Number(prompt("Informe o valor inicial: "))
+
+        v_final = Number(prompt("Informe o valor final: "))
+
+        passo = Number(prompt("Informe o incrmento ou decremento: "))
+
+        //Processamento
+        if (v_inicial <= v_final) {
+            while (v_inicial <= v_final) {
+                console.log("A contagem é: " + v_inicial);
+                v_inicial+= passo;
+            }
+        }
+        else if (v_inicial >= v_final) {
+            while (v_inicial >= v_final) {
+                console.log("A contagem é: " + v_inicial)
+                v_inicial = v_inicial - passo;
+            }
+        }
+    </script>
+</body>
+</html>
