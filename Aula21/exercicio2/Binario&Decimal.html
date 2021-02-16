@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binario para Decimal</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var pri, seg, ter, quar, quin, sex, set, oit, res;
+
+        //Entrada
+        oit = Number(prompt("Informe o primeiro digito: "))
+
+        set = Number(prompt("Informe o segundo digito: "))
+
+        sex = Number(prompt("Informe o terceiro digito: "))
+
+        quin = Number(prompt("Informe o quarto digito: "))
+
+        quar = Number(prompt("Informe o quinto digito: "))
+
+        ter = Number(prompt("Informe o sexto digito: "))
+
+        seg = Number(prompt("Informe o sétimo digito: "))
+
+        pri = Number(prompt("Informe o oitavo digito: "))
+
+        //Processamento
+        res = pri + (seg * 2) + (ter * 4) + (quar * 8) + (quin * 16) + (sex * 32) + (set * 64) + (oit * 128);
+
+        //Saida
+        alert("O número em decimal é " + res)
+    </script>
+</body>
+</html>

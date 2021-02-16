@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPV4</title>
+</head>
+<body>
+    <script>
+        //Variavel
+        var ip4
+
+        //Entrada
+        alert("Informe somente os números e os 3 primeiros digitos")
+
+        ip4 = Number(prompt("Informe seu IPV4: "))
+
+        //Processamento
+        if (ip4 >= 1 && ip4 <= 120) {
+            alert("Seu IPV4 é de classe A")
+        }
+
+        else if (ip4 >= 128 && ip4 <= 191) {
+            alert("Seu IPV4 é de classe B")
+        }
+
+        else if (ip4 >= 192 && ip4 <= 223) {
+            alert("Seu IPV4 é de classe C")
+        }
+
+        else{
+            alert("IPV4 não definido")
+        }
+    </script>
+</body>
+</html>

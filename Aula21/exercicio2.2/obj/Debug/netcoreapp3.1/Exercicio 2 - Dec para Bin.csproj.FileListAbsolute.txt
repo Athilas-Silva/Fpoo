@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\bin\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 21 -26-11-20\Exercicio 2 - Dec para Bin\obj\Debug\netcoreapp3.1\Exercicio 2 - Dec para Bin.genruntimeconfig.cache
