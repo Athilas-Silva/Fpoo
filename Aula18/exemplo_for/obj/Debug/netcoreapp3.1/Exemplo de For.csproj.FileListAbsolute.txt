@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\bin\Debug\netcoreapp3.1\Exemplo de For.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 18 - 17-11-20\Exemplo de For\obj\Debug\netcoreapp3.1\Exemplo de For.genruntimeconfig.cache
