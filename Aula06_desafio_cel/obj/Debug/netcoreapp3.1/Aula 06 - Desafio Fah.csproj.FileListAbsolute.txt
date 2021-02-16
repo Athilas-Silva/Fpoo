@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\bin\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 06 - Desafio Fah\obj\Debug\netcoreapp3.1\Aula 06 - Desafio Fah.genruntimeconfig.cache
