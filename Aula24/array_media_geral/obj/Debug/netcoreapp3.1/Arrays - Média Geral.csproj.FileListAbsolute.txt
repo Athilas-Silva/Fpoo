@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\bin\Debug\netcoreapp3.1\Arrays - Média Geral.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Arrays - Média Geral\obj\Debug\netcoreapp3.1\Arrays - Média Geral.genruntimeconfig.cache

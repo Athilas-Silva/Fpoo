@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\bin\Debug\netcoreapp3.1\Array - Carros.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula 24 - 08-12-20\Array - Carros\obj\Debug\netcoreapp3.1\Array - Carros.genruntimeconfig.cache
