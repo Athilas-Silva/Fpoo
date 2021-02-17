@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- <StartupObject>Aula_32___Tarefas.TestaMetodosConta</StartupObject> -->
+    <StartupObject>Aula_32___Tarefas.TestaGerente</StartupObject>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <!-- <RootNamespace>Aula_32___Tarefas</RootNamespace> -->
+  </PropertyGroup>
+
+</Project>

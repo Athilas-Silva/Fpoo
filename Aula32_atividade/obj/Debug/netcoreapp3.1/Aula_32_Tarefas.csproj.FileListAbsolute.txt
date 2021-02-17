@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\bin\Debug\netcoreapp3.1\Aula_32_Tarefas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_32_Tarefa\obj\Debug\netcoreapp3.1\Aula_32_Tarefas.genruntimeconfig.cache
