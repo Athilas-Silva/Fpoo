@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <StartupObject>Aula_38_08_02_21.TestaProduto</StartupObject>
+    <!-- <StartupObject>Aula_38_08_02_21.TestaPessoaJuridica</StartupObject> -->
+    <!-- <StartupObject>Aula_38_08_02_21.TestaPessoaFisica</StartupObject> -->
+    <!-- <StartupObject>Aula_38_08_02_21.TestaAviao</StartupObject> -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
