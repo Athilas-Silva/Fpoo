@@ -1,0 +1,14 @@
+namespace Estatico
+{
+    public class Conta
+    {
+        public static int contador { get; set; }
+
+        public int numero;
+        public Conta()
+        {
+            Conta.contador++;
+            this.numero = Conta.contador;
+        }
+    }
+}
