@@ -1,0 +1,13 @@
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.csprojAssemblyReference.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.AssemblyInfoInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.AssemblyInfo.cs
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.exe
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.deps.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.runtimeconfig.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.runtimeconfig.dev.json
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\bin\Debug\netcoreapp3.1\CA_Estruturas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.dll
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.pdb
+C:\Users\athil\Documents\Senai - Athilas\FPOO\Aula_35_28_01_21\CA_Estruturas\obj\Debug\netcoreapp3.1\CA_Estruturas.genruntimeconfig.cache
