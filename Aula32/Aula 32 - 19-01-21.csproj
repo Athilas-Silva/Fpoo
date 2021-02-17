@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- <StartupObject>Aula_32___19_01_21.TestaAgencia</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaCartaoDeCredito</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaClienteECartao</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaConta</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaContaEAgencia</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaMetodosConta</StartupObject> -->
+    <!-- <StartupObject>Aula_32___19_01_21.TestaValoresPadrao</StartupObject> -->
+    <StartupObject>Aula_32___19_01_21.TestaMetodoTransfere</StartupObject>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Aula_32___19_01_21</RootNamespace>
+  </PropertyGroup>
+
+</Project>
