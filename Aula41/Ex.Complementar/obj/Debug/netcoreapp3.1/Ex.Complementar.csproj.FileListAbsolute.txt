@@ -1,0 +1,13 @@
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.exe
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.deps.json
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.runtimeconfig.json
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.runtimeconfig.dev.json
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.dll
+C:\Users\athil\Desktop\Ex.Complementar\bin\Debug\netcoreapp3.1\Ex.Complementar.pdb
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.csprojAssemblyReference.cache
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.AssemblyInfoInputs.cache
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.AssemblyInfo.cs
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.csproj.CoreCompileInputs.cache
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.dll
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.pdb
+C:\Users\athil\Desktop\Ex.Complementar\obj\Debug\netcoreapp3.1\Ex.Complementar.genruntimeconfig.cache
